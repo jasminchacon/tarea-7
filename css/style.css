@@ -1,0 +1,11 @@
+body {
+    background: black;
+    color: yellow;
+    font-size: 30px;
+    margin: 30px;
+    text-align: center;
+    margin-top: 300px;
+}
+.nombre{
+    color: lightslategray;
+}
